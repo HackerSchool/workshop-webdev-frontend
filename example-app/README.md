@@ -20,7 +20,7 @@ Here are some ways you can improve it:
 - We have just a single page.
   Wouldn't it be awesome to have a page for the articles themselves? Feel free to create one or two.  
   This should raise another problem though: as you've probably noticed, you're repeating a lot of code.
-  There are tools that let you include fragments of code (e.g. the navbar and the footer), such as [PHP](https://www.php.net/) or [Static Site Generators](https://jamstack.org/generators/).
+  There are tools that let you include fragments of code (e.g. the navbar and the footer), such as [PHP](https://www.php.net/) (not recommended) or [Static Site Generators](https://jamstack.org/generators/).
   These will take significantly more time to learn, but it's totally worth it!
 
 - The page does not have any interaction whatsoever.

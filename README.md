@@ -27,3 +27,19 @@
 ### JavaScript Frameworks
 
 - [React - Getting Started](https://reactjs.org/docs/getting-started.html)
+- [Vue - Introduction](https://vuejs.org/v2/guide/)
+
+## Project
+
+Obrigado por compareceres ao workshop!
+Abaixo tens algumas ideias daquilo que podes fazer como projeto:
+
+- Tenta recriar o teu site favorito (ou a sua homepage, por exemplo).
+  Não precisas de fazer a página interativa, mas tenta fazer um design semelhante.  
+  Exemplos: Google, YouTube, Netflix, GitHub, etc.
+
+  Não tenhas medo de dar asas à tua criatividade e aprender coisas novas!
+
+- Se já estiveres confortável com JavaScript, podes tentar aprender um framework novo, como React ou Vue.
+  A documentação do React tem um [tutorial](https://reactjs.org/tutorial/tutorial.html) que te vai ensinar, passo a passo, como fazer um jogo do galo.
+  Podes pegar nesse tutorial e aprender este novo framework! Como desafio, completa as 6 ideias extras no final do tutorial por ti mesmo.
