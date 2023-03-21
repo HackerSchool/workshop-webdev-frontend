@@ -1,4 +1,4 @@
-# Workshop Frontend Web Development 2022
+# Workshop Frontend Web Development 2023
 
 - [Slides](https://docs.google.com/presentation/d/1qZKwU020w-11QBoNhQ1ughVSbpvdHqdFtVRprIhVVYg/edit)
 
@@ -14,7 +14,7 @@
 
 ### HTML/CSS/JS
 
-- ["Responsive Web Design" course on freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/)
+- ["Responsive Web Design" course on freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
 - ["A Complete Guide to Flexbox" on CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - ["A Complete Guide to Grid" on CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - ["CSS Diner" - Learn CSS Selectors](https://flukeout.github.io/)
@@ -26,8 +26,8 @@
 
 ### JavaScript Frameworks
 
-- [React - Getting Started](https://reactjs.org/docs/getting-started.html)
-- [Vue - Introduction](https://vuejs.org/v2/guide/)
+- [React - Quick Start](https://react.dev/learn)
+- [Vue - Introduction](https://vuejs.org/guide/introduction.html)
 
 ## Project
 
