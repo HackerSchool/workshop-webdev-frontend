@@ -41,5 +41,5 @@ Abaixo tens algumas ideias daquilo que podes fazer como projeto:
   Não tenhas medo de dar asas à tua criatividade e aprender coisas novas!
 
 - Se já estiveres confortável com JavaScript, podes tentar aprender um framework novo, como React ou Vue.
-  A documentação do React tem um [tutorial](https://reactjs.org/tutorial/tutorial.html) que te vai ensinar, passo a passo, como fazer um jogo do galo.
+  A documentação do React tem um [tutorial](https://react.dev/learn/tutorial-tic-tac-toe) que te vai ensinar, passo a passo, como fazer um jogo do galo.
   Podes pegar nesse tutorial e aprender este novo framework! Como desafio, completa as 6 ideias extras no final do tutorial por ti mesmo.
